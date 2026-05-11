@@ -12,14 +12,15 @@ Building production-ready AI systems, scalable backend architectures, and intell
 </p>
 
 ---
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepanshuj18&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=deepanshuj18&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuj18&layout=compact&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuj18&layout=compact&theme=radical&cache_seconds=1800" height="160" />
 
 </div>
+```
+
 
 ---
 
