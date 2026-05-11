@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 
+
 <h1 align="center">Hi 👋, I'm Deepanshu Malik</h1>
 
 <h3 align="center">
@@ -12,6 +13,7 @@ Building production-ready AI systems, scalable backend architectures, and intell
 </p>
 
 ---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=deepanshuj18&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
@@ -19,8 +21,14 @@ Building production-ready AI systems, scalable backend architectures, and intell
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuj18&layout=compact&theme=radical&cache_seconds=1800" height="160" />
 
 </div>
-```
 
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=deepanshuj18&theme=tokyonight" height="170" />
+
+</div>
 
 ---
 
@@ -34,47 +42,57 @@ Building production-ready AI systems, scalable backend architectures, and intell
 
 ---
 
+## 📊 GitHub Highlights
+
+- 🚀 150+ Repository Clones Across Projects
+- 🧠 Built Multiple AI & Backend Systems
+- ⚡ Production-ready FastAPI Applications
+- 🤖 Real-world Generative AI Projects
+- 📈 Active Open Source & GitHub Contributor
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo" />
+<img src="https://skillicons.dev/icons?i=python" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" />
+<img src="https://skillicons.dev/icons?i=react" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
+<img src="https://skillicons.dev/icons?i=mysql" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" />
+<img src="https://skillicons.dev/icons?i=aws" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo" />
+<img src="https://skillicons.dev/icons?i=linux" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
+<img src="https://skillicons.dev/icons?i=git" height="45" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
+<img src="https://skillicons.dev/icons?i=github" height="45" />
 
 </div>
 
@@ -96,6 +114,9 @@ Context-aware document Q&A system using:
 
 ### ☀️ Utility Bill AI Agent
 AI document intelligence + solar proposal generation system using Gemini Vision.
+
+### 📋 Team Task Manager
+Full-stack team collaboration and task management platform.
 
 ---
 
@@ -119,13 +140,6 @@ AI document intelligence + solar proposal generation system using Gemini Vision.
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=deepanshuj18&theme=tokyonight" height="170" />
-
-</div>
-
----
-
 <h3 align="center">⭐ Building AI Systems That Solve Real Problems ⭐</h3>
 ```
+
